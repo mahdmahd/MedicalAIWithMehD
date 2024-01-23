@@ -1,0 +1,6 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'مهدی خادم'
+theme = 'mini'
+customCSS = 'css/style.css'
+relativeURLs = true
